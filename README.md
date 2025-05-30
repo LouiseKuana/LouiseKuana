@@ -24,5 +24,5 @@ I believe in **continuous learning**, **creative expression**, and **meaningful 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌸 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![📧 Email](https://img.shields.io/badge/Send_a_message-ff6fa1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/louise-kuana/)
+[![📧 Email](https://img.shields.io/badge/Send_a_message-ff6fa1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisekuana@gmail.com)
