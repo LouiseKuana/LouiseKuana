@@ -5,10 +5,10 @@
 Hi! I'm a **Back-End Developer** passionate about building robust and scalable systems.  
 Professionally, I specialize in crafting solid back-end solutions using technologies like **Java**, **Spring**, and **Python** 🧠⚙️
 
-But when it comes to my personal projects, I love to explore the front-end world as an enthusiastic adventurer 🌈✨  
-I enjoy experimenting with **React**, **TailwindCSS**, and animations to bring ideas to life with creativity and care 💖
+But when it comes to my personal projects, I love to explore the front-end world as an enthusiastic adventurer  
+I enjoy experimenting with **React**, **TailwindCSS**, and animations to bring ideas to life with creativity and care 
 
-I believe in **continuous learning**, **creative expression**, and **meaningful connections** 💬🤝  
+I believe in **continuous learning**, **creative expression**, and **meaningful connections** 💬
 
 ### 💻 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,6 +23,6 @@ I believe in **continuous learning**, **creative expression**, and **meaningful 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌸 Let’s connect!  
+### 🤝 Let’s connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/louise-kuana/)
 [![📧 Email](https://img.shields.io/badge/Send_a_message-ff6fa1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisekuana@gmail.com)
