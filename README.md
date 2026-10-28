@@ -3,12 +3,7 @@
 ### 👩🏻‍💻 About Me
 
 Hi! I'm a **Back-End Developer** passionate about building robust and scalable systems.  
-Professionally, I specialize in crafting solid back-end solutions using technologies like **Java**, **Spring**, and **Python** 🧠⚙️
-
-But when it comes to my personal projects, I love to explore the front-end world as an enthusiastic adventurer  
-I enjoy experimenting with **React**, **TailwindCSS**, and animations to bring ideas to life with creativity and care 
-
-I believe in **continuous learning**, **creative expression**, and **meaningful connections** 💬
+Professionally, I specialize in crafting solid back-end solutions using technologies like **Java**, **Spring**, and **Python** 
 
 ### 💻 Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
